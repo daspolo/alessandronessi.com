@@ -1,7 +1,7 @@
 # Site settings
 title: Alessandro Nessi
 description: System Administrator and CS Student
-# baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/alessandronessi.com" # the subpath of your site, e.g. /blog
 url: "https://alessandronessi.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
